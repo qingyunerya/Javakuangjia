@@ -24,6 +24,4 @@
         <property name="name" value="product1" />
         <!--<property name="category" ref="c" /> -->
     </bean>
-
-
 </beans>
